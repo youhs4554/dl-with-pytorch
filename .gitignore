@@ -174,4 +174,6 @@ poetry.toml
 .DS_Store
 tools
 *_old
-*.csv
+
+# data stuff
+data-unversioned/
